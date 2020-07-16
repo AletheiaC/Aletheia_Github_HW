@@ -1,0 +1,5 @@
+3. LEVEL1 is made into a directory and file2.txt is deleted from LEVEL2 because cd<dir> changes the directory and rm -f<> deletes the file from LEVEL2.
+
+4. ROOT<
+	LEVEL1 
+	  file1.txt
